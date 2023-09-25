@@ -1,0 +1,78 @@
+/* Add your CSS styles here */
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    padding: 30px;
+    text-align: center;
+}
+.nama {
+    font-size:50px;
+    color: aliceblue;
+}
+.nrp {
+    font-size:35px;
+    color: aliceblue;
+}
+.major {
+    color: aliceblue;
+}
+
+p{
+    font-size: 20px;
+}
+h1 {
+    font-family: 'Montserrat', fantasy;
+    color: #FFD700;
+    text-align: center;
+    font-size: 90px;
+}
+
+h2 {
+    color: #FF4500;
+    font-size: 28px;
+}
+
+.resume-item {
+    margin-bottom: 20px;
+}
+
+.resume-item h3 {
+    margin-bottom: 10px;
+}
+
+.resume-item p {
+    margin: 0;
+}
+
+
+/* Theater Productions Carousel captions */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6); /* Add a semi-transparent background for captions */
+    color: #fff; /* Text color for captions */
+    font-size: 18px; /* Adjust font size for captions */
+}
+
+/* UKM Teater Tiyang Alit Section */
+#ukm-carousel {
+    margin-top: 30px; /* Add spacing between the carousel and the previous section */
+}
+
+/* Navbar styles */
+.navbar {
+    height: 90px;    
+}
+
+/* Footer styles */
+.footer {
+    background-color: #747171;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0; /* Increase the footer padding */
+    font-size: 18px; /* Increase the font size of the footer text */
+    margin: auto;
+}
+
